@@ -104,13 +104,31 @@ cameras:
 
 ```mermaid
 graph TD
-    A[RTSP Stream] -->|NVDEC / FFMPEG| B(OpenCV Decoder)
+    A[RTSP Stream] -->|NVDEC / FFMPEG| B[OpenCV Decoder]
     B --> C[YOLO Detector]
     C --> D[ByteTrack Tracker]
     D --> E[Polygon Analyzer]
     E -->|Events| F[ImageSaver Thread]
     F --> G[(Saved Images)]
     E -->|Overlay| H[Display Window]
+    
+    %% Qo‘shimcha jarayonlar
+    C -->|Detection Output| I[Bounding Boxes]
+    D -->|Tracker Update| J[Vehicle Tracking]
+    I -->|Bounding Box Filter| K[Tracker Thresholding]
+    J -->|Time in Polygon| L[Violation Detector]
+
+    %% Vazifalar o‘rtasidagi o‘zaro bog‘lanishlar
+    H -->|Real-time Video| L
+    G -->|Image & Data| M[Logging & Monitoring]
+
+    %% Qulaylik uchun ranglar
+    classDef decoder fill:#f9f,stroke:#333,stroke-width:2px;
+    class B decoder;
+
+    classDef tracker fill:#ccf,stroke:#333,stroke-width:2px;
+    class D tracker;
+
 ```
 
 ---
