@@ -186,5 +186,5 @@ MIT License — erkin foydalanish, o‘zgartirish va tarqatish mumkin.
 **RailSafe — Smart Infrastructure, Safe Movement. 🚉**
 
 ```
-
+![alt text](image.png)
 ---
