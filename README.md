@@ -183,9 +183,11 @@ MIT License — erkin foydalanish, o‘zgartirish va tarqatish mumkin.
 
 ---
 
+<p align="center">
+  <img src="image.png" width="640" alt="RailSafe System Overview">
+</p>
+
 **RailSafe — Smart Infrastructure, Safe Movement. 🚉**
 
-```
-![alt text](./assets/image.png)
-
 ---
+
