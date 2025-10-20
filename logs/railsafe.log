@@ -1,0 +1,57 @@
+2025-10-20 16:47:40 | __main__ | INFO | RailSafe tizimi ishga tushirilmoqda...
+2025-10-20 16:47:40 | railcore.system | INFO | Config yuklanmoqda: config/config.yaml
+2025-10-20 16:47:40 | railcore.saver | INFO | ImageSaver ishga tushdi: saved_images
+2025-10-20 16:47:40 | railcore.system | INFO | CUDA mavjud: NVIDIA GeForce RTX 3050
+2025-10-20 16:47:40 | railcore.camera | INFO | Kamera 1 uchun decoder ochilmoqda...
+2025-10-20 16:47:40 | railcore.decoder.gst_nvdec | WARNING | GStreamer NVDEC decoder ochilmadi: videos/192.168.170.160_02_20251013180043842.mp4
+2025-10-20 16:47:40 | railcore.decoder.gst_nvdec | WARNING | GStreamer NVDEC decoder ochilmadi: videos/192.168.170.160_02_20251013180043842.mp4
+2025-10-20 16:47:40 | railcore.decoder | INFO | FFMPEG CPU decoder ishlatilmoqda
+2025-10-20 16:47:40 | railcore.decoder.ffmpeg_cpu | INFO | FFMPEG CPU decoder ochildi: videos/192.168.170.160_02_20251013180043842.mp4
+2025-10-20 16:47:40 | railcore.decoder.ffmpeg_cpu | INFO | FFMPEG CPU decoder ochildi: videos/192.168.170.160_02_20251013180043842.mp4
+2025-10-20 16:47:40 | railcore.camera | INFO | Kamera 1: 2560x1440 @ 25.0 FPS
+2025-10-20 16:47:40 | railcore.vision.yolo_detector | INFO | Kamera 1 uchun YOLO model yuklanmoqda: models/car_detect.v1.pt
+2025-10-20 16:47:40 | railcore.vision.yolo_detector | INFO | Kamera 1 uchun YOLO model yuklandi
+2025-10-20 16:47:40 | railcore.camera | INFO | Kamera 1 - Shimoliy Yo'nalish tayyor
+2025-10-20 16:47:40 | railcore.system | INFO | Kamera 1 - Shimoliy Yo'nalish qo'shildi
+2025-10-20 16:47:40 | railcore.system | INFO | 1 ta kamera ishga tushirilmoqda...
+2025-10-20 16:47:40 | railcore.camera | INFO | Kamera 1 - Shimoliy Yo'nalish boshlandi
+2025-10-20 16:47:40 | railcore.system | INFO | Barcha kameralar ishga tushdi. To'xtatish uchun Ctrl+C bosing...
+2025-10-20 16:48:24 | railcore.camera | INFO | Kamera 1 to'xtatildi
+2025-10-20 16:49:09 | __main__ | INFO | RailSafe tizimi ishga tushirilmoqda...
+2025-10-20 16:49:09 | railcore.system | INFO | Config yuklanmoqda: config/config.yaml
+2025-10-20 16:49:09 | railcore.saver | INFO | ImageSaver ishga tushdi: saved_images
+2025-10-20 16:49:09 | railcore.system | INFO | CUDA mavjud: NVIDIA GeForce RTX 3050
+2025-10-20 16:49:09 | railcore.camera | INFO | Kamera 1 uchun decoder ochilmoqda...
+2025-10-20 16:49:09 | railcore.decoder.gst_nvdec | WARNING | GStreamer NVDEC decoder ochilmadi: videos/192.168.170.160_02_20251013180043842.mp4
+2025-10-20 16:49:09 | railcore.decoder.gst_nvdec | WARNING | GStreamer NVDEC decoder ochilmadi: videos/192.168.170.160_02_20251013180043842.mp4
+2025-10-20 16:49:09 | railcore.decoder | INFO | FFMPEG CPU decoder ishlatilmoqda
+2025-10-20 16:49:09 | railcore.decoder.ffmpeg_cpu | INFO | FFMPEG CPU decoder ochildi: videos/192.168.170.160_02_20251013180043842.mp4
+2025-10-20 16:49:09 | railcore.decoder.ffmpeg_cpu | INFO | FFMPEG CPU decoder ochildi: videos/192.168.170.160_02_20251013180043842.mp4
+2025-10-20 16:49:09 | railcore.camera | INFO | Kamera 1: 2560x1440 @ 25.0 FPS
+2025-10-20 16:49:09 | railcore.vision.yolo_detector | INFO | Kamera 1 uchun YOLO model yuklanmoqda: models/car_detect.v1.pt
+2025-10-20 16:49:09 | railcore.vision.yolo_detector | INFO | Kamera 1 uchun YOLO model yuklandi
+2025-10-20 16:49:09 | railcore.camera | INFO | Kamera 1 - Shimoliy Yo'nalish tayyor
+2025-10-20 16:49:09 | railcore.system | INFO | Kamera 1 - Shimoliy Yo'nalish qo'shildi
+2025-10-20 16:49:09 | railcore.system | INFO | 1 ta kamera ishga tushirilmoqda...
+2025-10-20 16:49:09 | railcore.camera | INFO | Kamera 1 - Shimoliy Yo'nalish boshlandi
+2025-10-20 16:49:09 | railcore.system | INFO | Barcha kameralar ishga tushdi. To'xtatish uchun Ctrl+C bosing...
+2025-10-20 16:49:37 | railcore.camera | INFO | Kamera 1 to'xtatildi
+2025-10-20 16:57:21 | __main__ | INFO | RailSafe tizimi ishga tushirilmoqda...
+2025-10-20 16:57:21 | railcore.system | INFO | Config yuklanmoqda: config/config.yaml
+2025-10-20 16:57:21 | railcore.saver | INFO | ImageSaver ishga tushdi: saved_images
+2025-10-20 16:57:21 | railcore.system | INFO | CUDA mavjud: NVIDIA GeForce RTX 3050
+2025-10-20 16:57:21 | railcore.camera | INFO | Kamera 1 uchun decoder ochilmoqda...
+2025-10-20 16:57:22 | railcore.decoder.gst_nvdec | WARNING | GStreamer NVDEC decoder ochilmadi: videos/192.168.170.160_02_20251013180043842.mp4
+2025-10-20 16:57:22 | railcore.decoder.gst_nvdec | WARNING | GStreamer NVDEC decoder ochilmadi: videos/192.168.170.160_02_20251013180043842.mp4
+2025-10-20 16:57:22 | railcore.decoder | INFO | FFMPEG CPU decoder ishlatilmoqda
+2025-10-20 16:57:22 | railcore.decoder.ffmpeg_cpu | INFO | FFMPEG CPU decoder ochildi: videos/192.168.170.160_02_20251013180043842.mp4
+2025-10-20 16:57:22 | railcore.decoder.ffmpeg_cpu | INFO | FFMPEG CPU decoder ochildi: videos/192.168.170.160_02_20251013180043842.mp4
+2025-10-20 16:57:22 | railcore.camera | INFO | Kamera 1: 2560x1440 @ 25.0 FPS
+2025-10-20 16:57:22 | railcore.vision.yolo_detector | INFO | Kamera 1 uchun YOLO model yuklanmoqda: models/car_detect.v1.pt
+2025-10-20 16:57:22 | railcore.vision.yolo_detector | INFO | Kamera 1 uchun YOLO model yuklandi
+2025-10-20 16:57:22 | railcore.camera | INFO | Kamera 1 - Shimoliy Yo'nalish tayyor
+2025-10-20 16:57:22 | railcore.system | INFO | Kamera 1 - Shimoliy Yo'nalish qo'shildi
+2025-10-20 16:57:22 | railcore.system | INFO | 1 ta kamera ishga tushirilmoqda...
+2025-10-20 16:57:22 | railcore.camera | INFO | Kamera 1 - Shimoliy Yo'nalish boshlandi
+2025-10-20 16:57:22 | railcore.system | INFO | Barcha kameralar ishga tushdi. To'xtatish uchun Ctrl+C bosing...
+2025-10-20 16:58:27 | railcore.camera | INFO | Kamera 1 to'xtatildi
